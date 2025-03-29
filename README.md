@@ -1,2 +1,11 @@
 # procedural-generation
-SectionTrigger.cs consists of a procedural generation code , where to make it work , in the inspector panel add the gameObject you want to generate, that's all.
+
+
+
+## SectionTrigger.cs
+
+`SectionTrigger.cs` consists of a procedural generation script. To make it work, simply add the GameObject you want to generate in the Inspector panel. That's all!  
+
+The rest of the files are related to **Color Dash**, a game similar to *Color Switch*.
+
+
