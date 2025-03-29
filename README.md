@@ -1,11 +1,5 @@
-# procedural-generation
+## 🚀 SectionTrigger.cs – Procedural Generation  
 
+`SectionTrigger.cs` powers the procedural generation in **Color Dash**. Simply assign the GameObject you want to generate in the Unity Inspector, and the script takes care of the rest—seamlessly extending the game world as you play!  
 
-
-## SectionTrigger.cs
-
-`SectionTrigger.cs` consists of a procedural generation script. To make it work, simply add the GameObject you want to generate in the Inspector panel. That's all!  
-
-The rest of the files are related to **Color Dash**, a game similar to *Color Switch*.
-
-
+The rest of the files contribute to **Color Dash**, an exciting game I'm developing, inspired by dynamic, fast-paced mechanics. Stay tuned for updates! 🎮🔥  
