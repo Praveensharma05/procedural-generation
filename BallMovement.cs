@@ -7,7 +7,7 @@ public class BallMovement : MonoBehaviour
 
     void Start()
     {
-        rb = GetComponent<Rigidbody>();
+        rb = GetComponnt<Rigidbody>();
     }
 
     [System.Obsolete]
